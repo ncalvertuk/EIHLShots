@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+AllGoals.pkl
+AllPenalties.pkl
+base_image_nc.svg
+base_image.svg
+base_image.png
+CupFinal.json
+iihf_ice_rink_guide_web_pdf.pdf
+ShotMaps
