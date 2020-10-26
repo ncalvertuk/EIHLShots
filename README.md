@@ -5,6 +5,6 @@ The accompanying blogpost can be found here: https://www.ncalvert.uk/posts/eihls
 
 The contained files are:
 
-shotplots.py - Some functions to perform plotting, I moved these to a separate .py file to save code repitition in the Jupyter Notebooks
-GetPenaltiesAndGoals.ipynb - This Jupyter notebook scrapes the gamesheet data from the EIHL website (www.eliteleague.co.uk) to get the penalty and goal data. You have to run this prior to performing the analysis.
-ShotAnalysis.ipynb - This notebook performs the Data Analysis on the shot data.
+1. shotplots.py - Some functions to perform plotting, I moved these to a separate .py file to save code repitition in the Jupyter Notebooks
+2. GetPenaltiesAndGoals.ipynb - This Jupyter notebook scrapes the gamesheet data from the EIHL website (www.eliteleague.co.uk) to get the penalty and goal data. You have to run this prior to performing the analysis.
+3. ShotAnalysis.ipynb - This notebook performs the Data Analysis on the shot data.
